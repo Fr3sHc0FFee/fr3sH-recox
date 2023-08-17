@@ -26,7 +26,9 @@ chmod +x recox.sh
 Paste the below command to run the tool from anywhere in the terminal.
 ```
 mv recox.sh /usr/local/bin/recox
+subl recox.sh
 ```
+<img width="369" alt="image" src="https://github.com/Fr3sHc0FFee/fr3sH-recox/assets/32471999/b1b5259f-53dd-4548-92a2-5f801d5d1325">
 
 The deep scanner is a comprehensive function that performs a variety of check-ups to identify potential security vulnerabilities within a web application. Its many features include subdomain takeover, A record analysis, passive and active scanning, CORS misconfiguration testing, zone transfer testing, and web content discovery.
 
